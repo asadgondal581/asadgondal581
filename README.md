@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asad Nazeer Gondal
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on Android Related Issue
+- 💞️ I’m looking to collaborate on Android Development
 - 📫 Reach me Through Email: asadgondal581@gmail.com
 
 <!---
